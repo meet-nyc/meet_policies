@@ -1,5 +1,5 @@
-  ---                                                                                                                         
-  PRIVACY POLICY                                                                                                              
+  # Privacy Policy
+                          
     Effective Date: May 3, 2026                                                                                
   Last Updated: May 3, 2026                                                                                  
                                                                                                              
