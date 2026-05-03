@@ -116,7 +116,7 @@
                                                
   Profile photos you upload are:                                                                             
   - Stored in our cloud storage (Supabase Storage)
-  - Publicly accessible via URL to users of the App                                                          
+  - Accessible to authenticated users of the App via short-lived signed URLs (24-hour expiration). They are not publicly indexable on the web.                                                          
   - Retained until you delete them or delete your account                                                    
                                                                                                              
   We do not use your photos to train machine learning models.                                                
