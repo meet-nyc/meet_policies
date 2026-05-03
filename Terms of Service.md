@@ -1,5 +1,6 @@
   # Terms of Service                           
-                                                                                                             
+    Effective Date: May 3, 2026
+
   **Last updated:** May 3, 2026
                                                                                                              
   Welcome to Meet. These Terms of Service ("Terms") are a binding agreement                                  
